@@ -1,41 +1,48 @@
-<!-- readme-seo: bannysukumar -->
+# Staking - Coming Soon
 
-# Pin Staking Website
+Staking - Coming Soon is the site whose HTML title is "Staking - Coming Soon".
 
-**Pin Staking Website** is an open-source decentralized token-staking dApp. The code is written mainly in JavaScript and maintained by [Banny Sukumar](https://github.com/Bannysukumar), a blockchain and full-stack developer.
+[![License](https://img.shields.io/github/license/Bannysukumar/pin-staking-website)](https://github.com/Bannysukumar/pin-staking-website/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/Bannysukumar/pin-staking-website)](https://github.com/Bannysukumar/pin-staking-website/stargazers) [![Last commit](https://img.shields.io/github/last-commit/Bannysukumar/pin-staking-website)](https://github.com/Bannysukumar/pin-staking-website/commits/main)
 
-This repository is public so developers can read the source, reuse it under the MIT License, and send improvements.
+## Overview
 
-## About this project
+Staking - Coming Soon is the site whose HTML title is "Staking - Coming Soon".
 
-Pin Staking Website lives at [`github.com/Bannysukumar/pin-staking-website`](https://github.com/Bannysukumar/pin-staking-website). Use it as a starting point for a decentralized token-staking dApp, or study how the JavaScript parts fit together.
 
-## Tech stack
+What is actually in the repository: `pincoin.network/`. GitHub reports the primary language as JavaScript.
 
-- Primary language: **JavaScript**
-- License: **MIT**
-- Maintainer: [Banny Sukumar](https://github.com/Bannysukumar)
+Published site recorded on the repository: https://pin-staking-website.vercel.app
 
-## Getting started
+## Project Structure
+
+```text
+pin-staking-website/
+├── pincoin.network/
+```
+
+## Getting Started
 
 ```bash
 git clone https://github.com/Bannysukumar/pin-staking-website.git
 cd pin-staking-website
 ```
 
-Open the project in your editor. Install dependencies only if this repo already includes a manifest such as `package.json`, `requirements.txt`, or a `.csproj` file.
+## Deployment
+
+- The repository homepage is https://pin-staking-website.vercel.app.
 
 ## Contributing
 
-Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before you open a pull request.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Banny Sukumar.
+Licensed under MIT. See [LICENSE](LICENSE).
 
 ## Author
+
+[Banny Sukumar](https://github.com/Bannysukumar)
 
 - GitHub: [@Bannysukumar](https://github.com/Bannysukumar)
 - Portfolio: [adepu-sukumar.vercel.app](https://adepu-sukumar.vercel.app/)
 - LinkedIn: [Adepu Sukumar](https://www.linkedin.com/in/adepu-sukumar-59b423351)
-- ORCID: [0009-0007-9766-6579](https://orcid.org/0009-0007-9766-6579)
